@@ -1,1 +1,6 @@
 # Marguerite
+
+fish
+set -U fish_user_paths ~/APPLICATIONS/gcc-arm-none-eabi-10-2020-q4-major/bin/ $fish_user_paths
+
+
